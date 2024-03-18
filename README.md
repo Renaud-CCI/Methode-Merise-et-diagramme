@@ -26,12 +26,6 @@ La méthode Merise est une approche systématique de modélisation des systèmes
    
 3. **Modèle Physique de Données (MPD)** : Le dernier pas, où le MLD est converti en un schéma physique qui sera réellement implémenté dans le système de gestion de base de données. Cette étape prend en compte les spécificités techniques du SGBD utilisé.
 
-### Schéma de Base de Données 📊
-
-Le schéma de base de données est la représentation graphique ou textuelle de la base de données. Il est crucial pour comprendre la structure et la manière dont les données sont organisées et interconnectées.
-
-- **Création d'un Schéma** : Utilisation d'outils de conception de base de données pour créer un schéma. Cela inclut la définition des tables, de leurs attributs, et des relations entre elles.
-- **Normalisation** : Processus visant à réduire la redondance des données et à améliorer l'intégrité en structurant les tables selon des règles précises.
 
 ### Diagramme de Classe 📐
 
