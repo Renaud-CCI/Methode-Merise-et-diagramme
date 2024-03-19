@@ -16,7 +16,12 @@ Tout au long de ce cours, nous alternerons entre théorie et pratique 🚀, en v
 
 - **[Diagramme de Classe](https://docs.google.com/presentation/d/1-ErTyfTOovvVhAnvpWwbTI94hOU02iNuDorGxmIPLew/edit#slide=id.g2c3df5a8e0d_0_145)**
 
-Pour continuer avec la suite du cours sur la conception des bases de données, nous allons détailler chaque notion clé introduite précédemment, en commençant par la méthode Merise, avant de passer au schéma de base de données et enfin au diagramme de classe. À chaque étape, nous intégrerons des activités pratiques pour renforcer votre compréhension.
+# Exercices
+
+Pour continuer avec la suite du cours sur la conception des bases de données, nous allons détailler chaque notion clé introduite précédemment, en commençant par la méthode Merise, avant de passer au diagramme de classe. 
+
+
+# A Retenir
 
 ### Méthode Merise 🧩
 
