@@ -18,7 +18,6 @@ Tout au long de ce cours, nous alternerons entre théorie et pratique 🚀, en v
 
 # Exercices
 
-Pour continuer avec la suite du cours sur la conception des bases de données, nous allons détailler chaque notion clé introduite précédemment, en commençant par la méthode Merise, avant de passer au diagramme de classe. 
 
 
 # A Retenir
