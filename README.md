@@ -1,4 +1,4 @@
-# Methode-Merise
+# Conception de base de données
 
 Bienvenue dans ce cours dédié à la conception de bases de données 🛠️, un domaine crucial pour le développement d'applications informatiques robustes et efficaces. Aujourd'hui, nous allons nous plonger dans trois notions fondamentales qui sont le pilier de la modélisation des données : la méthode Merise, le schéma de base de données et le diagramme de classe. Ces concepts représentent des outils et méthodologies clés pour toute personne souhaitant maîtriser la structuration, l'organisation et la gestion des données au sein d'une application.
 
