@@ -18,6 +18,7 @@ Tout au long de ce cours, nous alternerons entre théorie et pratique 🚀, en v
 
 # Exercices
 
+Concevoir la base de donnée de votre projet de certification
 
 
 # A Retenir
