@@ -18,8 +18,9 @@ Tout au long de ce cours, nous alternerons entre théorie et pratique 🚀, en v
 
 # Exercices
 
-Concevoir la base de donnée de votre projet de certification
+**Activités Pratiques 🚀** : Pour chaque section théorique, je vous proposoe de mettre en pratique vos connaissances à travers la réalisation de votre projet chef d'oeuvre qui fera office d'exercices de modélisation. 
 
+Cela inclut la création de **MCD**, **MLD** et **MPD**, la conception de schémas de bases de données pour un cas d'usage spécifique, et la création de diagrammes de classe en utilisant des outils **UML**.
 
 # A Retenir
 
@@ -40,7 +41,3 @@ Le diagramme de classe, bien que principalement utilisé en programmation orient
 
 - **Conception de Classe** : Définition des classes, qui peuvent être vues comme des équivalents aux tables dans une base de données relationnelle. Chaque classe a des attributs (champs) et des méthodes (fonctions).
 - **Relations** : Identification des différents types de relations entre classes, telles que l'association, l'héritage et l'agrégation.
-
-**Activités Pratiques 🚀** : Pour chaque section théorique, je vous proposoe de mettre en pratique vos connaissances à travers la réalisation de votre projet chef d'oeuvre qui fera office d'exercices de modélisation. Cela inclut la création de MCD, MLD et MPD à l'aide de logiciels de modélisation, la conception de schémas de bases de données pour un cas d'usage spécifique, et la création de diagrammes de classe en utilisant des outils UML.
-
-Avec cette structure, le cours vise à fournir une compréhension approfondie des concepts clés de la modélisation des données, enrichie par une expérience pratique significative.
