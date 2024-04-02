@@ -12,9 +12,9 @@ Notre objectif est de vous doter des compétences et de la compréhension néces
 
 # Cours
 
-- **[Methode Merise](https://docs.google.com/presentation/d/10jQceaW_juW2QrE1iwlCx76zBqaPE5kVEV09-OtuEto/edit#slide=id.g2c3db9a2321_0_1)**
+- **[Methode Merise](https://docs.google.com/presentation/d/10jQceaW_juW2QrE1iwlCx76zBqaPE5kVEV09-OtuEto/edit#slide=id.p)**
 
-- **[Diagramme de Classe](https://docs.google.com/presentation/d/1-ErTyfTOovvVhAnvpWwbTI94hOU02iNuDorGxmIPLew/edit#slide=id.g2c3df5a8e0d_0_145)**
+- **[Diagramme de Classe](https://docs.google.com/presentation/d/1-ErTyfTOovvVhAnvpWwbTI94hOU02iNuDorGxmIPLew/edit#slide=id.p)**
 
 # Exercices
 
