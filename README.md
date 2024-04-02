@@ -22,6 +22,19 @@ Notre objectif est de vous doter des compétences et de la compréhension néces
 
 Cela inclut la création de **MCD**, **MLD** et **MPD**, la conception de schémas de bases de données pour un cas d'usage spécifique, et la création de diagrammes de classe en utilisant des outils **UML**.
 
+### Outils à utiliser : 
+
+- https://app.sqldbm.com/
+- https://www.dbdesigner.net/
+- https://app.creately.com/
+- https://drawsql.app/
+- https://www.lucidchart.com/
+- https://app.diagrams.net/
+- https://dbdiagram.io/home
+- https://www.mysql.com/products/workbench/
+
+
+
 # A Retenir
 
 ### Méthode Merise 🧩
