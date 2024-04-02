@@ -41,3 +41,19 @@ Le diagramme de classe, bien que principalement utilisé en programmation orient
 
 - **Conception de Classe** : Définition des classes, qui peuvent être vues comme des équivalents aux tables dans une base de données relationnelle. Chaque classe a des attributs (champs) et des méthodes (fonctions).
 - **Relations** : Identification des différents types de relations entre classes, telles que l'association, l'héritage et l'agrégation.
+
+
+# Liens utiles
+
+[Diagramme de classe](https://laurent-audibert.developpez.com/Cours-UML/?page=diagramme-classes)
+[Tuto UML](https://www.guru99.com/fr/uml-tutorial.html)
+
+[Model DB with UML](https://openclassrooms.com/en/courses/7569661-model-a-database-with-uml)
+[Modeliser vos BDD](https://openclassrooms.com/fr/courses/6938711-modelisez-vos-bases-de-donnees)
+[Conception Domain Driven Design](https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application)
+
+
+# Videos
+
+[Merise playlist tuto](https://www.youtube.com/playlist?list=PLB9AbbTDeBzQBpTh9NZw1sNgVo-60UEJq)
+[UML et diagramme de classe playlist tuto](https://www.youtube.com/playlist?list=PLB9AbbTDeBzSe4osof0YcsUCshwlmHxst)
